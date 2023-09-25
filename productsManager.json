@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "title": "Celular",
+    "description": "Celular Iphone",
+    "price": 2051,
+    "thumbnail": "url",
+    "code": 303,
+    "stock": 5
+  },
+  {
+    "id": 3,
+    "title": "Mouse",
+    "description": "Mouse RedDragon",
+    "price": 264,
+    "thumbnail": "url",
+    "code": 652,
+    "stock": 10
+  },
+  {
+    "id": 5,
+    "title": "Play Station 5 ",
+    "description": "la mejor del mercado",
+    "price": 2051,
+    "thumbnail": "url",
+    "code": 301,
+    "stock": 5,
+    "category": "Tecnologia"
+  },
+  {
+    "id": 6,
+    "title": "Tv 24 pulgadas",
+    "description": "Tv 24 pulgadas samsung",
+    "price": 2051,
+    "thumbnail": "url",
+    "code": 303,
+    "stock": 5,
+    "category": "electrodomestico"
+  }
+]
