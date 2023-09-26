@@ -1,7 +1,5 @@
 import fs from "fs";
 
-const path = "cart.json";
-
 class cartManager {
   constructor(path) {
     this.path = path;
@@ -53,6 +51,7 @@ class cartManager {
       }
 
       await fs.promises.writeFile(this.path, JSON.stringify(carts));
+      return cart;
     } catch (error) {
       throw error;
     }

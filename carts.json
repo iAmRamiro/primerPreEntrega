@@ -1,0 +1,13 @@
+[
+  {
+    "idCart": 1,
+    "products": [
+      { "id": 2, "title": "Tv 24 pulgadas", "quantity": 6 },
+      { "id": 5, "title": "Tv 50 pulgadas", "quantity": 1 }
+    ]
+  },
+  {
+    "idCart": 2,
+    "products": [{ "id": 5, "title": "Tv 22 pulgadas", "quantity": 1 }]
+  }
+]
