@@ -6,7 +6,7 @@ const app = Express();
 app.use(Express.json());
 
 app.use("/api/products", productsRouter);
-app.use("/api/cart", cartRouter);
+app.use("/api/carts", cartRouter);
 
 app.listen(8080, () => {
   console.log("Escuchando puerto 8080");
